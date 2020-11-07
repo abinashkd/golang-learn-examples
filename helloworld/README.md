@@ -4,3 +4,7 @@
 3. Then we have added the code refactoring for our language input in `func Hello` with block of if-else statements. 
 4. Then the block of if-else statments converted to switch case refactored to `func greetingPrefix`.
 5. In our test cases for each of the language input we have created seprate test cases.
+
+## How to Run
+1. To execute the hello.go : `go run hello.go`
+2. To execiute the test cases: `go test`
