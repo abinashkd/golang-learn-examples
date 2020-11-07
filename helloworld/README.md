@@ -7,4 +7,4 @@
 
 ## How to Run
 1. To execute the hello.go : `go run hello.go`
-2. To execiute the test cases: `go test`
+2. To execute the test cases: `go test`
